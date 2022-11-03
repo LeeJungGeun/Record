@@ -36,7 +36,7 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\Windows Kits\8.1\Include\um\mmsystem.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="TWSound\TW_Sound.h">
+    <ClInclude Include="..\TWSound\TW_Sound.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
